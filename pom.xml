@@ -9,7 +9,7 @@
         <version>3.0.0</version>
         <relativePath/>
     </parent>
-    <groupId>bw.co.roguesytems.teseletso</groupId>
+    <groupId>bw.co.roguesystems.teseletso</groupId>
     <artifactId>teseletso</artifactId>
     <packaging>pom</packaging>
     <version>0.0.1</version>
@@ -26,7 +26,7 @@
         <developerConnection></developerConnection>
         <url></url>
     </scm>
-    <organization>
+    <organization> 
         <name></name>
         <url></url>
     </organization>
@@ -435,7 +435,7 @@
         </hibernate.dialect>
         <tomcat.home>${env.CATALINA_HOME}</tomcat.home>
         <application.id>teseletso</application.id>
-        <application.package>bw.co.roguesytems.teseletso</application.package>
+        <application.package>bw.co.roguesystems.teseletso</application.package>
         <application.name>Rogue Systems Authorisation Platform</application.name>
         <application.version>0.0.1</application.version>
         <dataSource.name>jdbc/${application.id}</dataSource.name>

@@ -1,4 +1,4 @@
-package bw.co.roguesytems.teseletso;
+package bw.co.roguesystems.teseletso;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication

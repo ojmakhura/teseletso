@@ -3,23 +3,23 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>bw.co.roguesytems.teseletso</groupId>
+        <groupId>bw.co.roguesystems.teseletso</groupId>
         <artifactId>teseletso</artifactId>
         <version>0.0.1</version>
     </parent>
-    <groupId>bw.co.roguesytems.teseletso</groupId>
+    <groupId>bw.co.roguesystems.teseletso</groupId>
     <artifactId>teseletso-thymeleaf</artifactId>
     <version>0.0.1</version>
     <packaging>jar</packaging>
     <name>Rogue Systems Authorisation Platform Thymeleaf Web</name>
     <dependencies>
         <dependency>
-            <groupId>bw.co.roguesytems.teseletso</groupId>
+            <groupId>bw.co.roguesystems.teseletso</groupId>
             <artifactId>teseletso-common</artifactId>
             <version>0.0.1</version>
         </dependency>
         <dependency>
-            <groupId>bw.co.roguesytems.teseletso</groupId>
+            <groupId>bw.co.roguesystems.teseletso</groupId>
             <artifactId>teseletso-core</artifactId>
             <version>0.0.1</version>
         </dependency>

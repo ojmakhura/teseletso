@@ -1,4 +1,4 @@
-package bw.co.roguesytems.teseletso;
+package bw.co.roguesystems.teseletso;
 
 import java.util.Collections;
 import org.springframework.context.annotation.Bean;

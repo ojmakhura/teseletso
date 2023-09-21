@@ -5,7 +5,7 @@
     compiling or testing or packaging, run mvn install from /mda instead of from the root directory. -->
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>bw.co.roguesytems.teseletso</groupId>
+        <groupId>bw.co.roguesystems.teseletso</groupId>
         <artifactId>teseletso</artifactId>
         <version>0.0.1</version>
     </parent>
